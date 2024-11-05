@@ -1,1 +1,1 @@
-# Quizz-Vanilla-Js
+# Quiz-Vanilla-Js
